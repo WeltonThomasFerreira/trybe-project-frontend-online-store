@@ -1,9 +1,9 @@
 # Trybe Project Frontend Online Store 23/09/2021
 <br>
 <div style="display: inline_block">
-  <img src="https://img.shields.io/badge/react-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&logoWidth=20"/>
-  <img src="https://img.shields.io/badge/react router-0D1117?style=for-the-badge&logo=reactrouter&logoColor=CA4245&logoWidth=20"/>
-  <img src="https://img.shields.io/badge/redux-0D1117?style=for-the-badge&logo=redux&logoColor=764ABC&logoWidth=20"/>
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=fff&logoWidth=20"/>
+  <img src="https://img.shields.io/badge/react router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=fff&logoWidth=20"/>
+  <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=fff&logoWidth=20"/>
 </div>
 <br>
 
